@@ -1,0 +1,11 @@
+numpy==1.26.0
+opencv-python==4.8.1.78
+Panda3D==1.10.13.post1
+panda3d-gltf==1.0.1
+panda3d-simplepbr==0.10
+Pillow==10.0.1
+pygame==2.5.2
+pykinect-azure==0.0.3
+pyperclip==1.8.2
+screeninfo==0.8.1
+ursina==6.1.2
